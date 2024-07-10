@@ -29,8 +29,8 @@ Annotations include bounding boxes for each image and have the same name as the 
 
 ### Step 1: Clone the Repo, Install dependencies
 ```bash
-git clone https://github.com/NanoNets/nanonets-ocr-sample-python.git
-cd nanonets-ocr-sample-python
+git clone https://github.com/mmdCodebase/carnumber_detection.git
+cd CarNumber Dectection
 sudo pip install requests tqdm
 ```
 
